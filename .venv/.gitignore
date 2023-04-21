@@ -1,0 +1,9 @@
+# created by virtualenv automatically
+.venv/
+.vscode/
+.mypy_cache/
+.pytest_cache/
+_pycache__/
+
+*.egg-info
+.env
